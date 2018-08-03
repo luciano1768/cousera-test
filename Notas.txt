@@ -1,0 +1,4 @@
+Iniciar browse-sync
+
+cd C:\Users\Luciano\coursera-projects\cousera-test
+browser-sync start --server --directory --files "**/*"
